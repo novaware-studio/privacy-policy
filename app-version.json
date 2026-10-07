@@ -1,4 +1,4 @@
 {
-  "android": { "minimum": "1.4.0", "recommended": "1.4.17" },
-  "ios": { "minimum": "1.4.0", "recommended": "1.4.17" }
+  "android": { "minimum": "1.4.0", "recommended": "1.4.18" },
+  "ios": { "minimum": "1.4.0", "recommended": "1.4.18" }
 }
