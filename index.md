@@ -1,13 +1,16 @@
 ---
 layout: default
 title: Privacy Policy — Sotabosc
+canonical_url: https://ezmstudio.com/sotabosc/privacy/
 ---
 
 # Privacy Policy — Sotabosc
 
-**Last updated: March 2026**
+This policy has moved to [EZM Studio](https://ezmstudio.com/sotabosc/privacy/). The text below remains available for older links.
 
-Novaware Studio ("we", "us", "our") operates the Sotabosc mobile application (the "App"). This Privacy Policy explains what information the App collects, how it is used, and your choices.
+**Last updated: November 3, 2026**
+
+EZM Studio ("we", "us", "our") operates the Sotabosc mobile application (the "App"). This Privacy Policy explains what information the App collects, how it is used, and your choices.
 
 ## 1. Information We Collect
 
@@ -49,7 +52,7 @@ These services process your photos according to their own privacy policies. We e
 - All app data (finds, favorites, settings, API keys) is stored locally on your device.
 - API keys are stored using the platform's encrypted secure storage (Keychain on iOS, EncryptedSharedPreferences on Android).
 - Photos are transmitted to third-party AI services over HTTPS (encrypted in transit).
-- No data is stored on servers operated by Novaware Studio.
+- No data is stored on servers operated by EZM Studio.
 
 ## 5. Data Deletion
 
@@ -67,5 +70,5 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 
 If you have questions about this Privacy Policy, contact us at:
 
-**Novaware Studio**
-Email: novaware.llc@gmail.com
+**EZM Studio**
+Email: hello@ezmstudio.com
